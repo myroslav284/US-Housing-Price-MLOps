@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files; keep documentation and placeholders
+data/raw/*
+!data/raw/README.md
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/README.md
+!data/processed/.gitkeep
+
+# Experiment tracking and generated model artifacts
+mlruns/
+artifacts/
+models/
+
+# Local databases and OS files
+*.db
+.DS_Store
+Thumbs.db
