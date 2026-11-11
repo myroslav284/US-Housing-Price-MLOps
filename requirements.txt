@@ -16,3 +16,5 @@ xgboost
 lightgbm
 catboost
 optuna
+shap
+groq
