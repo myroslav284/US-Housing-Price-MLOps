@@ -1,7 +1,6 @@
 pandas
 polars
 pyarrow
-pytest
 numpy
 matplotlib
 seaborn
@@ -11,3 +10,8 @@ ipykernel
 scikit-learn
 category-encoders
 joblib
+pytest
+mlflow
+xgboost
+lightgbm
+catboost
