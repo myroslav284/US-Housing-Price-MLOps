@@ -7,3 +7,6 @@ seaborn
 plotly
 jupyter
 ipykernel
+scikit-learn
+category-encoders
+joblib
